@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+//stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Head-less-Reaper)](https://github.com/Head-less-Reaper/github-readme-stats)
+//additional stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Head-less-Reaper&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+//icons
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Head-less-Reaper&show_icons=true)
+//count specified years
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Head-less-Reaper&commits_year=2020)
+//theme
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Head-less-Reaper&show_icons=true&theme=radical)
