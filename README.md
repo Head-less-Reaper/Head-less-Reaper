@@ -26,6 +26,8 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Head-less-Reaper&theme=radical&hide_border=false&layout=compact&r=3)
 
+![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=Head-less-Reaper&theme=radical&hide_border=false&r=1)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Head-less-Reaper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
