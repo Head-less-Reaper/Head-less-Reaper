@@ -1,5 +1,5 @@
 # 💫 About Me:
-<br># Hey! I'm Ayush 👋<br><br>I'm a **2nd-year Computer Science student at SMVIT**, currently navigating my way through the world of **Web Development**—breaking things, fixing them, and learning a lot in the process.<br><br>### 🌱 What I'm up to<br><br>🔭 Exploring **Frontend + Backend** — trying to become that *"full-stack guy who actually knows what he's doing"* 😄  <br>⚡Building small projects to **turn theory into muscle memory**  <br>💬 Constantly hopping between docs, Stack Overflow, and YouTube tutorials 📚  
+<br># Hey! I'm Ayush 👋<br><br>I'm a **3rd-year Computer Science student at SMVIT**, currently navigating my way through the world of **Web Development**—breaking things, fixing them, and learning a lot in the process.<br><br>### 🌱 What I'm up to<br><br>🔭 Exploring **Frontend + Backend** — trying to become that *"full-stack guy who actually knows what he's doing"* 😄  <br>⚡Building small projects to **turn theory into muscle memory**  <br>💬 Constantly hopping between docs, Stack Overflow, and YouTube tutorials 📚  
 
 
 ## 🌐 Socials:
