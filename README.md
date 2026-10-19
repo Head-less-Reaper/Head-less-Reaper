@@ -37,7 +37,9 @@
 
 
 
-[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=Head-less-Reaper&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Head-less-Reaper&theme=radical&hide_border=true)
+
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Head-less-Reaper&theme=radical&hide_border=false&layout=compact&r=3)
