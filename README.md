@@ -35,7 +35,9 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Head-less-Reaper&theme=radical&hide_border=false&include_all_commits=true&r=1)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Head-less-Reaper&theme=radical&hide_border=false)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Head-less-Reaper&theme=radical&hide_border=true)
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Head-less-Reaper&theme=radical&hide_border=false&layout=compact&r=3)
 
