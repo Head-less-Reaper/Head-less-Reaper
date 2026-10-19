@@ -59,16 +59,8 @@ I'm a **3rd-year Computer Science student at SMVIT**, exploring the world of **W
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Head-less-Reaper&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=Head-less-Reaper&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Head-less-Reaper&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Head-less-Reaper&theme=radical&hide_border=true)
 
 
 ## 🔥 GitHub Contribution Heatmap
