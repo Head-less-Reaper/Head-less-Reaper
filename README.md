@@ -33,10 +33,12 @@ I'm a **3rd-year Computer Science student at SMVIT**, exploring the world of **W
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
 ### Backend & APIs
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_API-0078D7?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
@@ -68,11 +70,17 @@ I'm a **3rd-year Computer Science student at SMVIT**, exploring the world of **W
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Head-less-Reaper&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
-## 🔥 Contribution Heatmap
+
+## 🔥 GitHub Contribution Heatmap
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/Head-less-Reaper" alt="GitHub Contribution Heatmap" width="100%" />
+  <img
+    src="https://ghchart.rshah.org/409ba5/Head-less-Reaper"
+    alt="Head-less-Reaper's GitHub Contribution Heatmap"
+    width="100%"
+  />
 </p>
+
 
 ## 🏆 GitHub Trophies
 
