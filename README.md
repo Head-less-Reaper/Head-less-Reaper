@@ -45,6 +45,10 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Head-less-Reaper&theme=radical&hide_border=false&layout=compact&r=3)
 
 
+![GitHub Contribution Grid](https://ghchart.rshah.org/409ba5/Head-less-Reaper)
+
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Head-less-Reaper&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
