@@ -38,7 +38,7 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Head-less-Reaper&theme=radical&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=Head-less-Reaper&theme=radical&hide_border=false)
 
 
 
